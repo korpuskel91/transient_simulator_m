@@ -7,10 +7,11 @@ Overview
 --------
 
 Includes 
-    - Passive Elements: Resistors, Capacitors, Inductances
-    - Diodes
-    - Transmission Lines
-
+* Passive Elements: Resistors, Capacitors, Inductances
+* Diodes
+* Long Transmission Lines
+* Plotting of voltage between nodes 
+* Plotting of current through parts
 
 Quick Start
 -----------
